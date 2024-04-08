@@ -1,0 +1,24 @@
+.container-help-password {
+    display: flex;
+    flex-direction: column;
+    margin-top: 16px;
+    padding: 12px;
+    border: 1px dashed #DDD;
+    border-radius: 4px;
+    background-color: #FAFAFA;
+}
+.container-help-password p {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+.container-help-password .list-helps {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.container-help-password .list-helps span {
+    font-size: 14px;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+}
