@@ -9,6 +9,7 @@ Na primeira etapa:
  - Validar se Nome completo foi preenchido e se é o nome completo do usuário.
  - Validar se senha foi preenchida e se tem no mínimo 8 catacters, 1 caractere maiúsculo, 1 caractere minúsculo e 1 caractere numérico.
  - Após o cadastro bem sucedido, deve redirecionar para a tela de informação, indicando para o usuário fazer o login para finalizar o cadastro.
+ - Os dados devem ser salvos no banco de dados conforme as informações fornecidas pelo usuário.
 
 ## Regras de login
 Em seguida:
